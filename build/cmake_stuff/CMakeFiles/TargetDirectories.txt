@@ -1,0 +1,5 @@
+/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/CMakeFiles/edit_cache.dir
+/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/CMakeFiles/rebuild_cache.dir
+/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/work_7/CMakeFiles/danil_kostin_work_7.dir
+/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/work_7/CMakeFiles/edit_cache.dir
+/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/work_7/CMakeFiles/rebuild_cache.dir

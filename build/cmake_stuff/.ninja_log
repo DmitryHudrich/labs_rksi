@@ -1,0 +1,6 @@
+# ninja log v5
+18	511	1702075484334962021	work_7/CMakeFiles/danil_kostin_work_7.dir/src/main.cpp.o	6c16a983e1aa021c
+2	486	1702137669762164029	work_7/CMakeFiles/danil_kostin_work_7.dir/main.cpp.o	a6564c0977b85a74
+5	105	1702137971611233058	build.ninja	43bcd17b322b4b90
+2	1168	1702137670439175398	work_7/CMakeFiles/danil_kostin_work_7.dir/src/program.cpp.o	cffad4cc44d42ae6
+1168	1269	1702137670546177195	/home/hudrich/Документы/projects/cpp/labs_rksi/build/binaries/danil_kostin_work_7/danil_kostin_work_7	234a53f8bf0eef70

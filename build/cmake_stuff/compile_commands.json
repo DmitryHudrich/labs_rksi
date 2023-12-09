@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff",
+  "command": "/usr/bin/clang++ -g -o work_7/CMakeFiles/danil_kostin_work_7.dir/main.cpp.o -c /home/hudrich/Документы/projects/cpp/labs_rksi/work_7/main.cpp",
+  "file": "/home/hudrich/Документы/projects/cpp/labs_rksi/work_7/main.cpp",
+  "output": "work_7/CMakeFiles/danil_kostin_work_7.dir/main.cpp.o"
+},
+{
+  "directory": "/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff",
+  "command": "/usr/bin/clang++ -g -o work_7/CMakeFiles/danil_kostin_work_7.dir/src/program.cpp.o -c /home/hudrich/Документы/projects/cpp/labs_rksi/work_7/src/program.cpp",
+  "file": "/home/hudrich/Документы/projects/cpp/labs_rksi/work_7/src/program.cpp",
+  "output": "work_7/CMakeFiles/danil_kostin_work_7.dir/src/program.cpp.o"
+}
+]
