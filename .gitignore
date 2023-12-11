@@ -1,1 +1,2 @@
 .vscode/
+build/cmake_stuff/*
