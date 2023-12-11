@@ -1,0 +1,14 @@
+# Target labels
+ googletest-populate
+# Source files and their labels
+/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-subbuild/CMakeFiles/googletest-populate.rule
+/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete.rule
+/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build.rule
+/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure.rule
+/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download.rule
+/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install.rule
+/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir.rule
+/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch.rule
+/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test.rule
+/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update.rule

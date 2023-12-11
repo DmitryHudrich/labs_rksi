@@ -10,5 +10,53 @@
   "command": "/usr/bin/clang++ -g -o work_7/CMakeFiles/danil_kostin_work_7.dir/src/program.cpp.o -c /home/hudrich/Документы/projects/cpp/labs_rksi/work_7/src/program.cpp",
   "file": "/home/hudrich/Документы/projects/cpp/labs_rksi/work_7/src/program.cpp",
   "output": "work_7/CMakeFiles/danil_kostin_work_7.dir/src/program.cpp.o"
+},
+{
+  "directory": "/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff",
+  "command": "/usr/bin/clang++ -g -std=gnu++14 -o work_8/CMakeFiles/danil_kostin_work_8.dir/main.cpp.o -c /home/hudrich/Документы/projects/cpp/labs_rksi/work_8/main.cpp",
+  "file": "/home/hudrich/Документы/projects/cpp/labs_rksi/work_8/main.cpp",
+  "output": "work_8/CMakeFiles/danil_kostin_work_8.dir/main.cpp.o"
+},
+{
+  "directory": "/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff",
+  "command": "/usr/bin/clang++ -isystem /home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-src/googletest/include -isystem /home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-src/googletest -g -std=gnu++14 -o work_8/CMakeFiles/matrix_test.dir/tests/square_matrix_test.cpp.o -c /home/hudrich/Документы/projects/cpp/labs_rksi/work_8/tests/square_matrix_test.cpp",
+  "file": "/home/hudrich/Документы/projects/cpp/labs_rksi/work_8/tests/square_matrix_test.cpp",
+  "output": "work_8/CMakeFiles/matrix_test.dir/tests/square_matrix_test.cpp.o"
+},
+{
+  "directory": "/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff",
+  "command": "/usr/bin/clang++ -I/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-src/googlemock/include -I/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-src/googlemock -isystem /home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-src/googletest/include -isystem /home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-src/googletest -g -std=c++14 -Wall -Wshadow -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -o _deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff",
+  "command": "/usr/bin/clang++ -isystem /home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-src/googlemock/include -isystem /home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-src/googlemock -isystem /home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-src/googletest/include -isystem /home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-src/googletest -g -std=c++14 -Wall -Wshadow -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -o _deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff",
+  "command": "/usr/bin/clang++ -I/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-src/googletest/include -I/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-src/googletest -g -std=c++14 -Wall -Wshadow -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -o _deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff",
+  "command": "/usr/bin/clang++ -isystem /home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-src/googletest/include -isystem /home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-src/googletest -g -std=c++14 -Wall -Wshadow -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -o _deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+},
+{
+  "directory": "/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff",
+  "command": "/usr/bin/clang++ -g -o work_9/CMakeFiles/danil_kostin_work_9.dir/main.cpp.o -c /home/hudrich/Документы/projects/cpp/labs_rksi/work_9/main.cpp",
+  "file": "/home/hudrich/Документы/projects/cpp/labs_rksi/work_9/main.cpp",
+  "output": "work_9/CMakeFiles/danil_kostin_work_9.dir/main.cpp.o"
+},
+{
+  "directory": "/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff",
+  "command": "/usr/bin/clang++ -g -o work_9/CMakeFiles/danil_kostin_work_9.dir/program.cpp.o -c /home/hudrich/Документы/projects/cpp/labs_rksi/work_9/program.cpp",
+  "file": "/home/hudrich/Документы/projects/cpp/labs_rksi/work_9/program.cpp",
+  "output": "work_9/CMakeFiles/danil_kostin_work_9.dir/program.cpp.o"
 }
 ]

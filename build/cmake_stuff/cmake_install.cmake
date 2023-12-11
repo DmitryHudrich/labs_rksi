@@ -45,6 +45,8 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/work_7/cmake_install.cmake")
+  include("/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/work_8/cmake_install.cmake")
+  include("/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/work_9/cmake_install.cmake")
 
 endif()
 

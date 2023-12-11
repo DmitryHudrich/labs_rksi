@@ -1,0 +1,5 @@
+if(EXISTS "/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/work_8/matrix_test[1]_tests.cmake")
+  include("/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/work_8/matrix_test[1]_tests.cmake")
+else()
+  add_test(matrix_test_NOT_BUILT matrix_test_NOT_BUILT)
+endif()

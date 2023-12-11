@@ -9,7 +9,7 @@
 #include <string>
 
 namespace {
-char FindMostPopularSymbol(std::vector<std::string> strings) {
+char findMostPopularSymbol(std::vector<std::string> strings) {
     std::map<char, int32_t> symbols;
     for (size_t i = 0; i < strings.size(); i++) {
         for (size_t j = 0; j < strings[i].size(); j++) {
@@ -26,7 +26,7 @@ char FindMostPopularSymbol(std::vector<std::string> strings) {
     return max_value->first;
 }
 
-std::vector<std::string> FindStringsWithChar(std::vector<std::string> strings,
+std::vector<std::string> findStringsWithChar(std::vector<std::string> strings,
                                              char c) {
     std::vector<std::string> output_strings;
     for (size_t i = 0; i < strings.size(); i++) {
@@ -42,7 +42,7 @@ std::vector<std::string> FindStringsWithChar(std::vector<std::string> strings,
     return output_strings;
 }
 
-std::vector<std::string> ReadStrings(std::ifstream& file_stream) {
+std::vector<std::string> readStrings(std::ifstream& file_stream) {
     std::vector<std::string> all_strings;
     std::string one_string;
     while (std::getline(file_stream, one_string)) {
@@ -82,9 +82,9 @@ bool Program::createFile() {
     }
 
     std::vector<std::string> strings;
-    strings = ReadStrings(init_file_stream);
-    most_popular_symbol = FindMostPopularSymbol(strings);
-    strings = FindStringsWithChar(strings, most_popular_symbol);
+    strings = readStrings(init_file_stream);
+    most_popular_symbol = findMostPopularSymbol(strings);
+    strings = findStringsWithChar(strings, most_popular_symbol);
 
     write_stream.open(new_file_name);
 

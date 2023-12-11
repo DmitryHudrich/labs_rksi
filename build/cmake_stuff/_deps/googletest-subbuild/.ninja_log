@@ -1,0 +1,21 @@
+# ninja log v5
+1228	1246	1702240851847529038	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	69b312d7956ef1b7
+1141	1159	1702240851761527689	/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	9be92541cd771504
+1246	1269	1702240851871529415	CMakeFiles/googletest-populate-complete	a07b9da631470791
+1246	1269	1702240851871529415	/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	a07b9da631470791
+0	17	1702240850619509777	/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	77fb4cee39e12017
+1176	1194	1702240851796528238	/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	759839b7b8cb8575
+1159	1176	1702240851778527956	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	a6b5f913ce2b0f3a
+0	17	1702240850619509777	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	77fb4cee39e12017
+1195	1211	1702240851813528505	/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	5b3563a5fe339139
+1176	1194	1702240851796528238	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	759839b7b8cb8575
+1141	1159	1702240851761527689	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	9be92541cd771504
+1246	1269	1702240851871529415	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	a07b9da631470791
+17	1141	1702240851742527391	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	605264fff54e154a
+1246	1269	1702240851871529415	/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	a07b9da631470791
+1211	1228	1702240851830528772	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	2ff14bbb4bb595ff
+1228	1246	1702240851847529038	/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	69b312d7956ef1b7
+17	1141	1702240851742527391	/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	605264fff54e154a
+1159	1176	1702240851778527956	/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	a6b5f913ce2b0f3a
+1195	1211	1702240851813528505	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	5b3563a5fe339139
+1211	1228	1702240851830528772	/home/hudrich/Документы/projects/cpp/labs_rksi/build/cmake_stuff/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	2ff14bbb4bb595ff
